@@ -1,2 +1,2 @@
-# Sololearn-project_codes
-Sololearn Project Codes
+# Sololearn Project Codes
+- JavaScript
